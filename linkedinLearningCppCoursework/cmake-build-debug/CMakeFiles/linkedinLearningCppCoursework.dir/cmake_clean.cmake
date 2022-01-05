@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/linkedinLearningCppCoursework.dir/main.cpp.obj"
+  "CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.obj"
   "liblinkedinLearningCppCoursework.dll.a"
   "linkedinLearningCppCoursework.exe"
   "linkedinLearningCppCoursework.exe.manifest"

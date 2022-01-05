@@ -128,29 +128,29 @@ linkedinLearningCppCoursework/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/build
 .PHONY : linkedinLearningCppCoursework/fast
 
-main.obj: main.cpp.obj
-.PHONY : main.obj
+pointers.obj: pointers.cpp.obj
+.PHONY : pointers.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+pointers.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.obj
+.PHONY : pointers.cpp.obj
 
-main.i: main.cpp.i
-.PHONY : main.i
+pointers.i: pointers.cpp.i
+.PHONY : pointers.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/main.cpp.i
-.PHONY : main.cpp.i
+pointers.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.i
+.PHONY : pointers.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+pointers.s: pointers.cpp.s
+.PHONY : pointers.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/main.cpp.s
-.PHONY : main.cpp.s
+pointers.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.s
+.PHONY : pointers.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... linkedinLearningCppCoursework
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... pointers.obj
+	@echo ... pointers.i
+	@echo ... pointers.s
 .PHONY : help
 
 
