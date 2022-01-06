@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/test/OneDrive/repos/LearningCPP/linkedinLearningCppCoursework/pointers.cpp">
+		<Unit filename="C:/Users/test/OneDrive/repos/LearningCPP/linkedinLearningCppCoursework/switches.cpp">
 			<Option target="linkedinLearningCppCoursework"/>
 		</Unit>
 		<Unit filename="C:/Users/test/OneDrive/repos/LearningCPP/linkedinLearningCppCoursework/CMakeLists.txt">

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/test/OneDrive/repos/LearningCPP/linkedinLearningCppCoursework/pointers.cpp" "C:/Users/test/OneDrive/repos/LearningCPP/linkedinLearningCppCoursework/cmake-build-debug/CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.obj"
+  "C:/Users/test/OneDrive/repos/LearningCPP/linkedinLearningCppCoursework/switches.cpp" "C:/Users/test/OneDrive/repos/LearningCPP/linkedinLearningCppCoursework/cmake-build-debug/CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

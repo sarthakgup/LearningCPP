@@ -65,27 +65,27 @@ include CMakeFiles/linkedinLearningCppCoursework.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/linkedinLearningCppCoursework.dir/flags.make
 
-CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.obj: CMakeFiles/linkedinLearningCppCoursework.dir/flags.make
-CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.obj: ../pointers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\test\OneDrive\repos\LearningCPP\linkedinLearningCppCoursework\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\linkedinLearningCppCoursework.dir\pointers.cpp.obj -c C:\Users\test\OneDrive\repos\LearningCPP\linkedinLearningCppCoursework\pointers.cpp
+CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.obj: CMakeFiles/linkedinLearningCppCoursework.dir/flags.make
+CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.obj: ../switches.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\test\OneDrive\repos\LearningCPP\linkedinLearningCppCoursework\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\linkedinLearningCppCoursework.dir\switches.cpp.obj -c C:\Users\test\OneDrive\repos\LearningCPP\linkedinLearningCppCoursework\switches.cpp
 
-CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\test\OneDrive\repos\LearningCPP\linkedinLearningCppCoursework\pointers.cpp > CMakeFiles\linkedinLearningCppCoursework.dir\pointers.cpp.i
+CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\test\OneDrive\repos\LearningCPP\linkedinLearningCppCoursework\switches.cpp > CMakeFiles\linkedinLearningCppCoursework.dir\switches.cpp.i
 
-CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\test\OneDrive\repos\LearningCPP\linkedinLearningCppCoursework\pointers.cpp -o CMakeFiles\linkedinLearningCppCoursework.dir\pointers.cpp.s
+CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\test\OneDrive\repos\LearningCPP\linkedinLearningCppCoursework\switches.cpp -o CMakeFiles\linkedinLearningCppCoursework.dir\switches.cpp.s
 
 # Object files for target linkedinLearningCppCoursework
 linkedinLearningCppCoursework_OBJECTS = \
-"CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.obj"
+"CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.obj"
 
 # External object files for target linkedinLearningCppCoursework
 linkedinLearningCppCoursework_EXTERNAL_OBJECTS =
 
-linkedinLearningCppCoursework.exe: CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.obj
+linkedinLearningCppCoursework.exe: CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.obj
 linkedinLearningCppCoursework.exe: CMakeFiles/linkedinLearningCppCoursework.dir/build.make
 linkedinLearningCppCoursework.exe: CMakeFiles/linkedinLearningCppCoursework.dir/linklibs.rsp
 linkedinLearningCppCoursework.exe: CMakeFiles/linkedinLearningCppCoursework.dir/objects1.rsp

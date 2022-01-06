@@ -128,29 +128,29 @@ linkedinLearningCppCoursework/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/build
 .PHONY : linkedinLearningCppCoursework/fast
 
-pointers.obj: pointers.cpp.obj
-.PHONY : pointers.obj
+switches.obj: switches.cpp.obj
+.PHONY : switches.obj
 
 # target to build an object file
-pointers.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.obj
-.PHONY : pointers.cpp.obj
+switches.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.obj
+.PHONY : switches.cpp.obj
 
-pointers.i: pointers.cpp.i
-.PHONY : pointers.i
+switches.i: switches.cpp.i
+.PHONY : switches.i
 
 # target to preprocess a source file
-pointers.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.i
-.PHONY : pointers.cpp.i
+switches.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.i
+.PHONY : switches.cpp.i
 
-pointers.s: pointers.cpp.s
-.PHONY : pointers.s
+switches.s: switches.cpp.s
+.PHONY : switches.s
 
 # target to generate assembly for a file
-pointers.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/pointers.cpp.s
-.PHONY : pointers.cpp.s
+switches.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.s
+.PHONY : switches.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... linkedinLearningCppCoursework
-	@echo ... pointers.obj
-	@echo ... pointers.i
-	@echo ... pointers.s
+	@echo ... switches.obj
+	@echo ... switches.i
+	@echo ... switches.s
 .PHONY : help
 
 

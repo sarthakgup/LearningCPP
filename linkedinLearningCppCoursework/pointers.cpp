@@ -14,7 +14,7 @@ int main() {
     printf("val: %d\n", *ip);   //prints 7
 
     printf("val: %d\n", &x);    //prints address: 6422212
-    printf("val: %d\n", ip);    //prints address: 6422212
+    printf("val: %d\n", &ip);    //prints address: 6422212
 
     return 0;
 }
