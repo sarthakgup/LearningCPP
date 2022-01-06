@@ -3,4 +3,4 @@ project(linkedinLearningCppCoursework)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(linkedinLearningCppCoursework switches.cpp)
+add_executable(linkedinLearningCppCoursework vectors.cpp)

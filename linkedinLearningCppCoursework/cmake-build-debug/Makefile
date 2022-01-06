@@ -128,29 +128,29 @@ linkedinLearningCppCoursework/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/build
 .PHONY : linkedinLearningCppCoursework/fast
 
-switches.obj: switches.cpp.obj
-.PHONY : switches.obj
+vectors.obj: vectors.cpp.obj
+.PHONY : vectors.obj
 
 # target to build an object file
-switches.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.obj
-.PHONY : switches.cpp.obj
+vectors.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/vectors.cpp.obj
+.PHONY : vectors.cpp.obj
 
-switches.i: switches.cpp.i
-.PHONY : switches.i
+vectors.i: vectors.cpp.i
+.PHONY : vectors.i
 
 # target to preprocess a source file
-switches.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.i
-.PHONY : switches.cpp.i
+vectors.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/vectors.cpp.i
+.PHONY : vectors.cpp.i
 
-switches.s: switches.cpp.s
-.PHONY : switches.s
+vectors.s: vectors.cpp.s
+.PHONY : vectors.s
 
 # target to generate assembly for a file
-switches.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/switches.cpp.s
-.PHONY : switches.cpp.s
+vectors.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/vectors.cpp.s
+.PHONY : vectors.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... linkedinLearningCppCoursework
-	@echo ... switches.obj
-	@echo ... switches.i
-	@echo ... switches.s
+	@echo ... vectors.obj
+	@echo ... vectors.i
+	@echo ... vectors.s
 .PHONY : help
 
 

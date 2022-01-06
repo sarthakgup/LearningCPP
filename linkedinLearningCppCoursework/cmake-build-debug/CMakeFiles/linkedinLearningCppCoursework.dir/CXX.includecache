@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/test/OneDrive/repos/LearningCPP/linkedinLearningCppCoursework/switches.cpp
+C:/Users/test/OneDrive/repos/LearningCPP/linkedinLearningCppCoursework/vectors.cpp
+vector
+-
 iostream
 -
-cstdio
+string
 -
 
