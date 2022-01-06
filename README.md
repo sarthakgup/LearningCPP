@@ -8,4 +8,4 @@ helloWorld --> a basic beginner project where I messed up the folder scheme tryi
 
 helloWorldPartTwo --> a basic beginner project to learn cpp which i properly set up
 
-learningCPP --> folder where my code from the learningCPP linkedin learning course will go
+linkedinLearningCppCoursework --> folder where my code from the learningCPP linkedin learning course will go
