@@ -128,29 +128,29 @@ linkedinLearningCppCoursework/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/build
 .PHONY : linkedinLearningCppCoursework/fast
 
-vectors.obj: vectors.cpp.obj
-.PHONY : vectors.obj
+testfoo.obj: testfoo.cpp.obj
+.PHONY : testfoo.obj
 
 # target to build an object file
-vectors.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/vectors.cpp.obj
-.PHONY : vectors.cpp.obj
+testfoo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/testfoo.cpp.obj
+.PHONY : testfoo.cpp.obj
 
-vectors.i: vectors.cpp.i
-.PHONY : vectors.i
+testfoo.i: testfoo.cpp.i
+.PHONY : testfoo.i
 
 # target to preprocess a source file
-vectors.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/vectors.cpp.i
-.PHONY : vectors.cpp.i
+testfoo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/testfoo.cpp.i
+.PHONY : testfoo.cpp.i
 
-vectors.s: vectors.cpp.s
-.PHONY : vectors.s
+testfoo.s: testfoo.cpp.s
+.PHONY : testfoo.s
 
 # target to generate assembly for a file
-vectors.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/vectors.cpp.s
-.PHONY : vectors.cpp.s
+testfoo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linkedinLearningCppCoursework.dir\build.make CMakeFiles/linkedinLearningCppCoursework.dir/testfoo.cpp.s
+.PHONY : testfoo.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... linkedinLearningCppCoursework
-	@echo ... vectors.obj
-	@echo ... vectors.i
-	@echo ... vectors.s
+	@echo ... testfoo.obj
+	@echo ... testfoo.i
+	@echo ... testfoo.s
 .PHONY : help
 
 

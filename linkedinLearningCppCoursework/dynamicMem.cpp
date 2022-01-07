@@ -12,6 +12,7 @@ int main()
 {
     printf("allocate space  for %lu long unsigned int at *ip with new \n", count);
 
+    malloctest* = (int*)malloc(sizeof(int) * 8);
 
     //allocate array
     long int* ip;

@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/test/OneDrive/repos/LearningCPP/linkedinLearningCppCoursework/vectors.cpp
-vector
--
+C:/Users/test/OneDrive/repos/LearningCPP/linkedinLearningCppCoursework/testfoo.cpp
 iostream
 -
-string
--
+testfoo.h
+C:/Users/test/OneDrive/repos/LearningCPP/linkedinLearningCppCoursework/testfoo.h
+
+C:/Users/test/OneDrive/repos/LearningCPP/linkedinLearningCppCoursework/testfoo.h
 

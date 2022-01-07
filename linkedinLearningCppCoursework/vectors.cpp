@@ -19,9 +19,20 @@ vector<int> primes;
 
 int main()
 {
+    int x = 2;
+
     //adding elements to vector:
-    primes.push_back(1);
+    primes.push_back(x);
     primes.push_back(2);
+    //primes.insert(0, 4);
+    //primes.in
+
+   // auto it = primes.begin();
+    //primes.insert(it, 4);
+
+    //resize
+
+
 
     //removing element from vector:
     primes.pop_back();
